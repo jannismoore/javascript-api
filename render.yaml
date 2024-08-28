@@ -9,4 +9,4 @@ services:
       - key: SECURE_TOKEN
         sync: false # Prompt for a value in the Render Dashboard
     autoDeploy: true
-    region: frankfurt
+    region: Oregon
